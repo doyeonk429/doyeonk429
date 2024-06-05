@@ -11,4 +11,13 @@
 ### Skills & History
 - now focusing on *Swfit*, *SwiftUI*, *System Programming*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonk429&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Prizes
+[GSC Top 100 Project](https://github.com/2024-Google-Solution-Challenge-Team5/mobile-ios-native)
+<br>
+<img width="700" alt="스크린샷 2024-06-05 오후 2 13 53" src="https://github.com/doyeonk429/doyeonk429/assets/80318425/fbbd5ad6-cc22-4823-88c2-838e101ad3be">
+<br>
+
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonk429&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
