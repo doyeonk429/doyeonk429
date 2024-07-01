@@ -9,7 +9,7 @@
 - UMC Hongik iOS team member : 2024.03 - 
 
 ### Skills & History
-- now focusing on *Swfit*, *SwiftUI*, *System Programming*
+- now focusing on *Swift*, *SwiftUI*, *System Programming*
 
 
 ### Prizes
