@@ -6,7 +6,8 @@
 ### Experience
 - 홍익대학교 중앙동아리 EXP make : 2021.03 - 2023.02
 - Google Developer Student Community : 2023.03 - 2024.02
-- UMC Hongik iOS team member : 2024.03 - 
+- UMC Hongik iOS team member : 2024.03 - 2024.08
+- 네이버 부스트캠프 웹모바일 9기 iOS 파트 챌린지 : 2024.07 - 2024.08
 
 ### Skills & History
 - now focusing on *Swift*, *SwiftUI*, *System Programming*
