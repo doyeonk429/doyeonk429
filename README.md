@@ -1,10 +1,11 @@
 # Hello, This is doyeonk429's Playground!
 ### Education
-- 홍익대학교 컴퓨터공학과 4학년 재학 : 2021.03 - 현재; Computer Engineering, Hongik University : 2021.03 - present
+- 홍익대학교 컴퓨터공학과 4학년 졸업 예정 : 2021.03 - 2025.02
+  Computer Engineering, Hongik University : 2021.03 - 2025.02
 - 혜원여자고등학교 과학중점과정 수료 : 2018.03 - 2021.02
 
 ### Experience
-- 홍익대학교 중앙동아리 EXP make : 2021.03 - 2023.02
+- 홍익대학교 게임개발 동아리 EXP make : 2021.03 - 2023.02
 - Google Developer Student Community : 2023.03 - 2024.02
 - UMC Hongik iOS team member : 2024.03 - 2024.08
 - 네이버 부스트캠프 웹모바일 9기 iOS 파트 챌린지 : 2024.07 - 2024.08
