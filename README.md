@@ -39,4 +39,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-doyeonkims-projects.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats-doyeonkims-projects.vercel.app/api/top-langs/?username=doyeonk429&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats-doyeonkims-projects.vercel.app/api/top-langs/?username=doyeonk429&&layout=donut)
