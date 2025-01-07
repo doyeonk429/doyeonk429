@@ -37,6 +37,6 @@
 ### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=doyeonk429&theme=swift)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-doyeonkims-projects.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyeonk429&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-doyeonkims-projects.vercel.app/api/top-langs/?username=doyeonk429&langs_count=10&layout=compact)
