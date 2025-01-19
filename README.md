@@ -29,10 +29,27 @@
 
 
 ### Prizes
-[GSC Top 100 Project](https://github.com/2024-Google-Solution-Challenge-Team5/mobile-ios-native)
-<br>
-<img width="700" alt="스크린샷 2024-06-05 오후 2 13 53" src="https://github.com/doyeonk429/doyeonk429/assets/80318425/fbbd5ad6-cc22-4823-88c2-838e101ad3be">
-<br>
+- [GSC Top 100 Project](https://github.com/2024-Google-Solution-Challenge-Team5/mobile-ios-native)
+- [UMC 7기 해커톤 대상](https://github.com/TeamY-Hackathon-UMC7th/LastCoffee_iOS)
+<table>
+    <tr>
+    <td align="center">
+      1. GSC2024 Top 100
+    </td>
+    <td align="center">
+      2. UMC 7기 해커톤 대상
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="스크린샷 2024-06-05 오후 2 13 53" src="https://github.com/doyeonk429/doyeonk429/assets/80318425/fbbd5ad6-cc22-4823-88c2-838e101ad3be">
+    </td>
+    <td align="center">
+      <img width="300" alt="7th UMC 해커톤 대상" src="https://github.com/user-attachments/assets/3e567d84-e98d-4116-8462-d1c5dc31a7f9">
+    </td>
+  </tr>
+</table>
+
 
 ### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=doyeonk429&theme=swift)](https://git.io/streak-stats)
