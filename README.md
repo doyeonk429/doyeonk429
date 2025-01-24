@@ -1,6 +1,6 @@
 # Hello, This is doyeonk429's Playground!
 ### Education
-- 홍익대학교 컴퓨터공학과 졸업 예정 : 2021.03 - 2025.08 <br/>
+- 홍익대학교 컴퓨터공학과 졸업 유예 : 2021.03 - 2025.08 <br/>
   Computer Engineering, Hongik University : 2021.03 - 2025.08
 - 혜원여자고등학교 과학중점과정 졸업 : 2018.03 - 2021.02
 
