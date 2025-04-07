@@ -9,7 +9,7 @@
 - Google Developer Student Community : 2023.03 - 2024.02
 - UMC Hongik iOS team member : 2024.03 - 2024.08
 - 네이버 부스트캠프 웹모바일 9기 iOS 파트 챌린지 : 2024.07 - 2024.08
-- 이스트소프트 프론티어 iOS 부트캠프 1기 : 2025.01 - 
+- 이스트소프트 프론티어 iOS 부트캠프 1기 : 2025.01 - now
 
 ### Skills & History
 - Lang<br>
@@ -20,13 +20,15 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 - Database<br>
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 
+Coredata, SwiftData,
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 - Tools & Collab<br>
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+, Slack, Jira, Asana, Discord
 
 
 ### Prizes
