@@ -33,6 +33,7 @@ Coredata, SwiftData,
 ### Prizes
 - [GSC Top 100 Project](https://github.com/2024-Google-Solution-Challenge-Team5/mobile-ios-native)
 - [UMC 7기 해커톤 대상](https://github.com/TeamY-Hackathon-UMC7th/LastCoffee_iOS)
+- [2024년 홍익대학교 컴퓨터공학과 졸업전시회 우수상](https://github.com/doyeonk429/2024Project)
 <table>
     <tr>
     <td align="center">
