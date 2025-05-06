@@ -1,6 +1,6 @@
 # Hello,
 ### Education
-- 홍익대학교 컴퓨터공학과 졸업 유예 : 2021.03 - 2025.08 <br/>
+- 홍익대학교 컴퓨터공학과 : 2021.03 - 2025.08 <br/>
   Computer Engineering, Hongik University : 2021.03 - 2025.08
 
 ### Experience
