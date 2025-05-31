@@ -9,6 +9,7 @@
 - UMC Hongik iOS team member : 2024.03 - 2024.08
 - 네이버 부스트캠프 웹모바일 9기 iOS 파트 챌린지 : 2024.07 - 2024.08
 - 이스트소프트 프론티어 iOS 부트캠프 1기 : 2025.01 - 2025.06
+- YAPP 26th iOS Member: 2025.05 -
 
 ### Skills & History
 - Lang<br>
