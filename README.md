@@ -38,8 +38,13 @@ Coredata, SwiftData,
 
 
 ### Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=doyeonk429&theme=swift)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats-doyeonkims-projects.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats-doyeonkims-projects.vercel.app/api/top-langs/?username=doyeonk429&&layout=donut)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{doyeonk429}?pet-id=1" width="1000" height="120"/>
+</a>
