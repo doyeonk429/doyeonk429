@@ -1,4 +1,14 @@
-# Hello,
+# Hello, 
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/719101818903614364/draw"
+        width="1080"
+        height="400"
+        alt="gitanimals"
+      />
+    </a>
+
 ### Education
 - 홍익대학교 컴퓨터공학과 : 2021.03 - 2025.08 <br/>
   Computer Engineering, Hongik University : 2021.03 - 2025.08
@@ -44,11 +54,3 @@ Coredata, SwiftData,
 ![Anurag's GitHub stats](https://github-readme-stats-doyeonkims-projects.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats-doyeonkims-projects.vercel.app/api/top-langs/?username=doyeonk429&&layout=donut)
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doyeonk429&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/doyeonk429"
-  width="600"
-  height="300"
-/>
-</a>
