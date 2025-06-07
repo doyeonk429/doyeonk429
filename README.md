@@ -3,8 +3,8 @@
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/719101818903614364/draw"
-        width="1080"
-        height="400"
+        width="600"
+        height="300"
         alt="gitanimals"
       />
     </a>
