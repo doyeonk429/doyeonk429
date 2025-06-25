@@ -27,6 +27,4 @@
 - [2024년 홍익대학교 컴퓨터공학과 졸업전시회 우수상](https://github.com/doyeonk429/2024Project)
 
 ### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=doyeonk429&theme=swift)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats-doyeonkims-projects.vercel.app/api?username=doyeonk429&count_private=true&show_icons=true&theme=cobalt)
